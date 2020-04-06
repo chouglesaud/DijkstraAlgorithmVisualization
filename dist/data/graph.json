@@ -1,0 +1,356 @@
+{
+  "kashmir": {
+    "adjacent": {
+      "himachalpardesh": 641,
+      "punjab": 488
+    },
+    "coordinate": {
+      "x": 220,
+      "y": 60
+    }
+  },
+  "punjab": {
+    "adjacent": {
+      "kashmir": 488,
+      "himachalpardesh": 259,
+      "rajasthan": 572,
+      "haryana": 319
+    },
+    "coordinate": {
+      "x": 200,
+      "y": 160
+    }
+  },
+  "himachalpardesh": {
+    "adjacent": {
+      "kashmir": 641,
+      "punjab": 259,
+      "haryana": 352,
+      "utrakhand": 433
+    },
+    "coordinate": {
+      "x": 240,
+      "y": 130
+    }
+  },
+  "utrakhand": {
+    "adjacent": {
+      "up": 606,
+      "himachalpardesh": 433
+    },
+    "coordinate": {
+      "x": 270,
+      "y": 170
+    }
+  },
+  "haryana": {
+    "adjacent": {
+      "delhi": 127,
+      "up": 664,
+      "punjab": 319,
+      "himachalpardesh": 352,
+      "rajasthan": 362
+    },
+    "coordinate": {
+      "x": 215,
+      "y": 190
+    }
+  },
+  "delhi": {
+    "adjacent": {
+      "haryana": 127,
+      "up": 554
+    },
+    "coordinate": {
+      "x": 230,
+      "y": 210
+    }
+  },
+  "up": {
+    "adjacent": {
+      "rajasthan": 777,
+      "delhi": 554,
+      "haryana": 664,
+      "utrakhand": 606,
+      "bihar": 538,
+      "jharkhand": 699,
+      "chattisghad": 852,
+      "mp": 599
+    },
+    "coordinate": {
+      "x": 310,
+      "y": 250
+    }
+  },
+  "mp": {
+    "adjacent": {
+      "gujarat": 939,
+      "rajasthan": 787,
+      "up": 599,
+      "chattisghad": 498,
+      "maharashtra": 952
+    },
+    "coordinate": {
+      "x": 260,
+      "y": 340
+    }
+  },
+  "bihar": {
+    "adjacent": {
+      "westbengal": 494,
+      "jharkhand": 575,
+      "up": 538
+    },
+    "coordinate": {
+      "x": 410,
+      "y": 280
+    }
+  },
+  "jharkhand": {
+    "adjacent": {
+      "up": 699,
+      "bihar": 575,
+      "westbengal": 334,
+      "odhisa": 427,
+      "chattisghad": 1201
+    },
+    "coordinate": {
+      "x": 400,
+      "y": 330
+    }
+  },
+  "westbengal": {
+    "adjacent": {
+      "odhisa": 392,
+      "bihar": 494,
+      "jharkhand": 334,
+      "sikkim": 631,
+      "asaam": 1099
+    },
+    "coordinate": {
+      "x": 460,
+      "y": 340
+    }
+  },
+  "sikkim": {
+    "adjacent": {
+      "westbengal": 631
+    },
+    "coordinate": {
+      "x": 470,
+      "y": 235
+    }
+  },
+  "asaam": {
+    "adjacent": {
+      "arunachalpardesh": 600,
+      "nagaland": 300,
+      "manipur": 338,
+      "mizoram": 568,
+      "tripura": 473,
+      "meghalaya": 319,
+      "westbengal": 1099
+    },
+    "coordinate": {
+      "x": 560,
+      "y": 260
+    }
+  },
+  "arunachalpardesh": {
+    "adjacent": {
+      "asaam": 600,
+      "nagaland": 479
+    },
+    "coordinate": {
+      "x": 600,
+      "y": 215
+    }
+  },
+  "nagaland": {
+    "adjacent": {
+      "arunachalpardesh": 479,
+      "asaam": 300,
+      "manipur": 294
+    },
+    "coordinate": {
+      "x": 600,
+      "y": 265
+    }
+  },
+  "manipur": {
+    "adjacent": {
+      "asaam": 338,
+      "nagaland": 294,
+      "mizoram": 448
+    },
+    "coordinate": {
+      "x": 580,
+      "y": 300
+    }
+  },
+  "mizoram": {
+    "adjacent": {
+      "asaam": 568,
+      "manipur": 448,
+      "tripura": 365
+    },
+    "coordinate": {
+      "x": 560,
+      "y": 330
+    }
+  },
+  "tripura": {
+    "adjacent": {
+      "asaam": 473,
+      "mizoram": 365
+    },
+    "coordinate": {
+      "x": 540,
+      "y": 320
+    }
+  },
+  "meghalaya": {
+    "adjacent": {
+      "asaam": 319
+    },
+    "coordinate": {
+      "x": 510,
+      "y": 280
+    }
+  },
+  "rajasthan": {
+    "adjacent": {
+      "punjab": 572,
+      "haryana": 362,
+      "up": 777,
+      "mp": 787,
+      "gujarat": 740
+    },
+    "coordinate": {
+      "x": 160,
+      "y": 250
+    }
+  },
+  "gujarat": {
+    "adjacent": {
+      "rajasthan": 740,
+      "mp": 939,
+      "maharashtra": 687
+    },
+    "coordinate": {
+      "x": 120,
+      "y": 340
+    }
+  },
+  "maharashtra": {
+    "adjacent": {
+      "gujarat": 687,
+      "mp": 952,
+      "chattisghad": 1156,
+      "telangana": 794,
+      "goa": 587,
+      "karnataka": 654
+    },
+    "coordinate": {
+      "x": 145,
+      "y": 440
+    }
+  },
+  "goa": {
+    "adjacent": {
+      "karnataka": 564,
+      "maharashtra": 587
+    },
+    "coordinate": {
+      "x": 165,
+      "y": 510
+    }
+  },
+  "karnataka": {
+    "adjacent": {
+      "goa": 564,
+      "maharashtra": 654,
+      "telangana": 716,
+      "andhrapradesh": 501,
+      "tamilnadu": 315,
+      "kerla": 462
+    },
+    "coordinate": {
+      "x": 230,
+      "y": 550
+    }
+  },
+  "tamilnadu": {
+    "adjacent": {
+      "andhrapradesh": 681,
+      "kerla": 316,
+      "karnataka": 315
+    },
+    "coordinate": {
+      "x": 260,
+      "y": 610
+    }
+  },
+  "kerla": {
+    "adjacent": {
+      "tamilnadu": 316,
+      "karnataka": 462
+    },
+    "coordinate": {
+      "x": 215,
+      "y": 620
+    }
+  },
+  "chattisghad": {
+    "adjacent": {
+      "up": 852,
+      "mp": 498,
+      "maharashtra": 1156,
+      "telangana": 606,
+      "jharkhand": 1201,
+      "odhisa": 424
+    },
+    "coordinate": {
+      "x": 330,
+      "y": 380
+    }
+  },
+  "odhisa": {
+    "adjacent": {
+      "telangana": 1054,
+      "jharkhand": 427,
+      "chattisghad": 424,
+      "andhrapradesh": 1047,
+      "westbengal": 392
+    },
+    "coordinate": {
+      "x": 400,
+      "y": 400
+    }
+  },
+  "telangana": {
+    "adjacent": {
+      "maharashtra": 794,
+      "chattisghad": 606,
+      "odhisa": 1054,
+      "andhrapradesh": 347,
+      "karnataka": 716
+    },
+    "coordinate": {
+      "x": 270,
+      "y": 460
+    }
+  },
+  "andhrapradesh": {
+    "adjacent": {
+      "tamilnadu": 681,
+      "karnataka": 501,
+      "telangana": 347,
+      "odhisa": 1047
+    },
+    "coordinate": {
+      "x": 270,
+      "y": 520
+    }
+  }
+}
