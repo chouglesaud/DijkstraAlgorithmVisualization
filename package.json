@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "parcel ./src/main.js",
     "build": "parcel build ./src/main.js",
-    "deploy": "gh-pages -d ./dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "Chougle-saud",
