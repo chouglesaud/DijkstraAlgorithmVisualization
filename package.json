@@ -1,5 +1,5 @@
 {
-  "name": "dijkstra_visualization",
+  "name": "Dijkstra Visualization",
   "version": "1.0.0",
   "description": "visualization of dijkstra shortest path finding algorithm",
   "main": "main.js",
@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chougle-saud/dijkstra_visualization.git"
+    "url": "git+https://github.com/chouglesaud/dijkstra_visualization.git"
   },
   "bugs": {
-    "url": "https://github.com/Chougle-saud/dijkstra_visualization/issues"
+    "url": "https://github.com/chouglesaud/dijkstra_visualization/issues"
   },
-  "homepage": "https://Chougle-saud.github.io/dijkstra_visualization"
+  "homepage": "https://chouglesaud.github.io/dijkstra_visualization"
 }
