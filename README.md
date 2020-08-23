@@ -1,8 +1,9 @@
 # Dijkstra Algorithm Visualization
-shortest path finding algorithim: [DEMO](https://chouglesaud.github.io/DijkstraAlgorithmVisualization/)
+Shortest path finding algorithm: [DEMO](https://chouglesaud.github.io/DijkstraAlgorithmVisualization/)
 
+![](./dijkstra.png).
 
+## DEMO
 
-## how does it work?
-![](./dijkstra.png)
-Click any two point on map. In my case ☝️ i clicked **kashmir** and **tamilnadu**
+Click any two point on map. 
+In my case i clicked **kashmir** and **tamilnadu**.
